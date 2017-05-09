@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-文件结构.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-注册APP.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-注册页面.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-文件作用域模块引用.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图数据绑定.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图条件渲染.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图模板.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图事件.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图视图引用.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-WXSS.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图容器组件.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-页面链接.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-媒体组件.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-地图组件.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-画布.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-表单.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-发起请求.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-上传下载.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-WebSocket.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-图片,录音,音频播放,音乐播放,视频,文件.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-数据缓存.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-位置坐标.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-设备.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-提示框.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-登录,支付,模板消息.md",
+		"/Users/lincolnwung/SpringCloudDocs/weixinxiaochengxu/微信小程序-视图列表渲染.mdf",
+		"/Users/lincolnwung/Desktop/zhongshilian/info_save.php",
+		"/Users/lincolnwung/Desktop/zhongshilian/info_update.php",
+		"/Users/lincolnwung/Desktop/zhongshilian/info.php",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Spigo-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Hybrino-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/OMI-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/OneXTwoGaming-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Lega-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/WorldMatch-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Genii-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/HB-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Pariplay-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Playson-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/NetEnt.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/Endorphina-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/EM-Games/PNG-Games.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/PlaynGo/0428环境.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/PlaynGo/0428Password.md",
+		"/Users/lincolnwung/SpringCloudDocs/SpringCloudDocs/docs/The Twelve-Factor App.md",
+		"/Users/lincolnwung/Desktop/IndexAction.class.php",
+		"/Users/lincolnwung/AOC/Public/24k88jsmobile/js-compiler/ant-all.xml",
+		"/private/etc/hosts",
+		"/Users/lincolnwung/AOC/Public/24k88jsmobile/js-compiler/ant-for-leo-mobile.xml",
+		"/Users/lincolnwung/AOC/Public/24k88jsmobile/js-compiler/ant-for-mobile-css.xml",
+		"/Users/lincolnwung/Desktop/PiggyMetrics-master/README.md",
+		"/Users/lincolnwung/Desktop/Desktop/PH-Works/SpectroCoin-Wallet-Java-master/SpectroCoin-Wallet-API-client/src/main/java/lt/spectrofinance/spectrocoin/walletclient/request/SellCurrencyRequest.java",
+		"/Users/lincolnwung/Desktop/国际人/产品开发文档优化方案/关于 产品开发文档.docx的优化意见.md",
+		"/Users/lincolnwung/Desktop/01.web/HN.Agent/Index.aspx",
+		"/Users/lincolnwung/Downloads/python.d.plugin",
+		"/Users/lincolnwung/Downloads/mysql.conf",
+		"/Users/lincolnwung/Downloads/D-wwwroot/fiveuuuu/wwwroot/include/arc.memberlistview.class.php",
+		"/Users/lincolnwung/Desktop/01.web/HN.Web/js/main.min.js",
+		"/Users/lincolnwung/Desktop/01.web/HN.Web/js/main.js",
+		"/Users/lincolnwung/Downloads/D-wwwroot/fiveuuuu/wwwroot/ORG7188_DATA/common.inc.php",
+		"/Users/lincolnwung/Desktop/dbo.sql",
+		"/Users/lincolnwung/AOC/UserApp/Lib/Action/PlayNGoAction.class.php",
+		"/Users/lincolnwung/Desktop/国际人/我是怎么玩王者荣耀的",
+		"/Users/lincolnwung/Desktop/Kane/AG/AG.txt",
+		"/Users/lincolnwung/AOC/SpectroCoin/target/SpectroCoin-Wallet-API-client-1.0/META-INF/MANIFEST.MF",
+		"/Users/lincolnwung/Desktop/王健旭/SpectroCoin-Wallet-Java-master/SpectroCoin-Wallet-API-client/pom.xml",
+		"/Users/lincolnwung/Downloads/navigatetourl/navigatetourl.fla",
+		"/Users/lincolnwung/React/shopping-react-native/.babelrc",
+		"/Users/lincolnwung/Desktop/daux.io-master/docs/config.json",
+		"/Users/lincolnwung/Desktop/UML-Mermaid/untitled",
+		"/Library/Tomcat/apache-tomcat-6.0.48/logs/catalina.2017-01-03.log",
+		"/Library/Tomcat/apache-tomcat-6.0.48/logs/localhost.2017-01-03.log",
+		"/Library/Tomcat/apache-tomcat-6.0.48/logs/catalina.out",
+		"/Users/lincolnwung/Desktop/dyb-platforms-fixfunds-services-1.0-SNAPSHOT/dyb-platforms-fixfunds-services/conf/mapper/account/ibatis-Account.xml",
+		"/Users/lincolnwung/Desktop/php-debug.log.2016-12-14",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/webapp/WEB-INF/views/sinopay.jsp",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/webapp/WEB-INF/views/wxonline-result-show.jsp",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/webapp/WEB-INF/views/wxonlinePayment.jsp",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/webapp/WEB-INF/views/wxOnlinePaymentForm.jsp",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/java/com/ips/core/psfp/demo/web/H5Controller.java",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/java/com/ips/core/psfp/demo/web/WxOnlineController.java",
+		"/Users/lincolnwung/Desktop/PH-Works/IPS微信/环迅微信psfp-demo/psfp-demo-web/src/main/java/com/ips/core/psfp/demo/web/WxOnlineReceiveController.java",
+		"/Users/lincolnwung/Desktop/php-debug.log.2016-12-05",
+		"/Users/lincolnwung/Desktop/happistar.sql",
+		"/Users/lincolnwung/Desktop/rfcorp_booming_transaction.sql"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/lincolnwung/Desktop/PiggyMetrics-master",
+			"/Users/lincolnwung/Downloads/D-wwwroot/dlzyhy/wwwroot",
+			"/Users/lincolnwung/Downloads/D-wwwroot/dlzyhy/wwwrootd'b",
+			"/Users/lincolnwung/Downloads/D-wwwroot/fiveuuuu",
+			"/Users/lincolnwung/React/shopping-react-native",
+			"/Users/lincolnwung/Desktop/daux.io-master",
+			"",
+			"/Users/lincolnwung/Desktop/html5"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"```",
+			"```",
+			"[![复制代码](http://common.cnblogs.com/images/copycode.gif)](javascript:void(0); \"复制代码\")",
+			"```",
+			"```",
+			"[![复制代码](http://common.cnblogs.com/images/copycode.gif)](javascript:void(0); \"复制代码\")",
+			"```",
+			"```",
+			"[![复制代码](http://common.cnblogs.com/images/copycode.gif)](javascript:void(0); \"复制代码\")",
+			"794",
+			"registry",
+			"ACCOUNT_SERVICE_PASSWORD",
+			"'username",
+			"\\where \\username",
+			"'dlzyhy",
+			"dlzyhy",
+			"db",
+			"fiveuuuu",
+			"localhost",
+			"username",
+			"Element",
+			"Walletmoney",
+			"2.1.1",
+			"target",
+			"-",
+			"-target",
+			"slideBanner",
+			"slide",
+			"slid",
+			"react-native-camera",
+			"The Easiest Way To Document Your Project",
+			"rfcorp",
+			"wallettype",
+			";",
+			"getSessionIdByUserId",
+			"log2File",
+			"dumpxml",
+			"Microgaming",
+			"regretestccc",
+			"Transfer",
+			"verifyMd5",
+			"buildRequestPara",
+			"createLinkstring",
+			"paraFilter",
+			"key",
+			"registerUser",
+			"<a href=\"#menu\">Menu</a>",
+			"#menu",
+			"Menu",
+			"my name is forty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"```",
+			"",
+			"```",
+			"",
+			"```",
+			"",
+			"******",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 431.0,
+	"status_bar_visible": true
+}
